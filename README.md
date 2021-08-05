@@ -1,14 +1,12 @@
 ## Hi, I'm Thomas 👋 
 
-*You're my &nbsp;![](https://komarev.com/ghpvc/?username=PregOfficial&label=&color=grey) Visitor* 🤯
-
 ### 👨‍💻️ Personal
 
-- 🇦🇹 from Austria  
-- 📚 studying CS at the University of Innsbruck  
-- 🏗 [my Website](https://pregoffici.al/)  
+- 🇦🇹&nbsp;&nbsp;from Austria  
+- 📚&nbsp;&nbsp;studying CS at the University of Innsbruck  
+- 🏗&nbsp;&nbsp;[my Website](https://pregoffici.al/)
 
-### 🔨 Tech Stack
+### 🔨&nbsp;&nbsp;Tech Stack
 
 <span>
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -21,6 +19,10 @@
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 </span>
+
+### 📊&nbsp;&nbsp;Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=PregOfficial&theme=light&show_icons=true&count_private=true)
 
 ### Contact
 
